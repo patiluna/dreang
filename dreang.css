@@ -1,0 +1,40 @@
+
+
+body
+{ 
+background-color:red;
+background-image:url('1234.jpg');
+background-size:cover;
+background-position:center:
+
+
+}
+hl
+{
+	color:blue;
+}
+p
+{
+	color:red;
+}
+img 
+{
+width:10px;
+height:10px;
+}
+	
+ul li
+{
+display:inline-block;
+font-size:1000;
+padding: 1px 10px;
+boder:lpx solid black;
+}
+ul 
+{
+	text-align:center;
+	font-size:4000;
+}
+ul 
+{
+	text align:center;
